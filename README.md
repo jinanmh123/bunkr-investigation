@@ -2,7 +2,7 @@
 
 ## Summary
 
-This report details the investigation into the **Bunkr file-hosting network**, a decentralized system that enables large-scale anonymous distribution of pirated and NSFW material. Through infrastructure analysis and behavioral profiling, this investigation strongly suggests that the operator behind Bunkr is linked to an earlier project, **bunker.to** and an online identity known as **"gigalogi"**.
+This report details the investigation into the **Bunkr file-hosting network**, a decentralized system that enables large-scale anonymous distribution of pirated and NSFW material. Through infrastructure analysis and behavioral profiling, this investigation strongly suggests that the operator behind Bunkr is linked to an earlier project, **bunker.to** and an online identity known as **"gigalogi"** and that Bunker LLC in Sweden is behind the operations of bunkr.
 
 ---
 
