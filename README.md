@@ -4,6 +4,10 @@
 
 This report details the investigation into the **Bunkr file-hosting network**, a decentralized system that enables large-scale anonymous distribution of pirated and NSFW material. Through infrastructure analysis and behavioral profiling, this investigation strongly suggests that the operator behind Bunkr is linked to an earlier project, **bunker.to** and an online identity known as **"gigalogi"** and that Bunker LLC in Sweden is behind the operations of bunkr.
 
+<p>
+  <img src='docs/bunkr.png'>
+</p>
+
 ---
 
 ## 1. Bunkr Infrastructure & Technical Strategy
@@ -72,7 +76,7 @@ Involvement:
 
 ---
 
-## 4. 🎯 Why "gigalogi" Is a Viable Suspect
+## 4. Why "gigalogi" Is a Viable Suspect
 
 | Evidence | Relevance |
 |----------|-----------|
@@ -110,7 +114,7 @@ This is not a copy - it is an **evolution**.
 
 ---
 
-## 6. 🧭 Timeline Alignment
+## 6. Timeline Alignment
 
 | Year | Event |
 |------|-------|
@@ -123,16 +127,26 @@ This is not a copy - it is an **evolution**.
 
 This timing suggests **bunkr was launched as a strategic rebrand** of `bunker.to`.
 
+> **Evidence Screenshots**:  
+> ![gigalogi-bunker-proof](docs/Posts/bunker_promo_main.png)
+> ![gigalogi-nsfw-proof](docs/Posts/nsfw.png)
+> ![gigalogi-llc-proof](docs/Posts/traffic.png)
+
+> **More Promos of Bunker.to in other spaces**: 
+> ![gigalogi-promo-1](docs/Posts/bunker_promo_piracy.png)
+> ![gigalogi-promo-2](docs/Posts/bunker_promo_privacy.png)
+
 ---
 
-## 7. 🏛️ Bunker LLC (Sweden) - Legal Tie-In
+## 7. Bunker LLC (Sweden) - Legal Tie-In
 
 - `bunker.to` was explicitly promoted as a project of **Bunker LLC**, a Swedish company registered in Malmö
 - Gigalogi publicly states that "Bunker LLC" is behind the project
 - No other known hosting products associated with the LLC - strongly implies continuity into `bunkr`
 
-> **Evidence Screenshot**:  
-> ![gigalogi-llc-proof](screenshots/gigalogi-bunker-promo.png)
+> **Evidence Screenshot**:
+> ![gigalogi-llc-proof](docs/Posts/bunker_promo_owner.png)
+
 
 This entity can now be used as the legal basis for pursuing deeper records, court orders or infrastructure takedowns.
 
@@ -144,7 +158,7 @@ All evidence - technical, behavioral, linguistic and historical - converges on t
 
 - **Bunkr is a rebranded successor of bunker.to**
 - The Reddit user `gigalogi` is **highly likely the founder or a core member**
-- **Bunker LLC (Malmö, Sweden)** is the legal entity likely responsible
+- **Bunker LLC (Malmö, Sweden)** is the legal entity responsible
 
 > **This report establishes a strong attribution hypothesis** for use by legal entities, cybersecurity teams or enforcement agencies to take further action.
 
