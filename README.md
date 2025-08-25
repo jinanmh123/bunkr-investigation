@@ -17,6 +17,7 @@ This report details the investigation into the **Bunkr file-hosting network**, a
 #### `bunkr.cr` – Likely the **origin server**:
 - Self-hosted mail system (no third-party relay)
 - Suggests centralized internal operations or privileged services
+- Unlike other domains, Cloudflare not used.
 
 #### `bunkr.si` – Likely a **staging or passive asset**:
 - No MX or SPF records
