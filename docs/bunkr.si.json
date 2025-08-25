@@ -1,0 +1,83 @@
+{
+    "status": true,
+    "queryTime": "2025-08-23 11:39:37",
+    "domainName": "bunkr.si",
+    "domainRegistered": true,
+    "dnsTypes": {
+        "A": 1,
+        "AAAA": 28,
+        "NS": 2,
+        "SOA": 6
+    },
+    "dnsRecords": [
+        {
+            "name": "bunkr.si",
+            "type": 1,
+            "dnsType": "A",
+            "ttl": 300,
+            "rawText": "bunkr.si.\t\t300\tIN\tA\t172.67.198.103",
+            "rRsetType": 1,
+            "address": "172.67.198.103"
+        },
+        {
+            "name": "bunkr.si",
+            "type": 1,
+            "dnsType": "A",
+            "ttl": 300,
+            "rawText": "bunkr.si.\t\t300\tIN\tA\t104.21.76.180",
+            "rRsetType": 1,
+            "address": "104.21.76.180"
+        },
+        {
+            "name": "bunkr.si",
+            "type": 28,
+            "dnsType": "AAAA",
+            "ttl": 300,
+            "rawText": "bunkr.si.\t\t300\tIN\tAAAA\t2606:4700:3032:0:0:0:ac43:c667",
+            "rRsetType": 28,
+            "address": "2606:4700:3032:0:0:0:ac43:c667"
+        },
+        {
+            "name": "bunkr.si",
+            "type": 28,
+            "dnsType": "AAAA",
+            "ttl": 300,
+            "rawText": "bunkr.si.\t\t300\tIN\tAAAA\t2606:4700:3034:0:0:0:6815:4cb4",
+            "rRsetType": 28,
+            "address": "2606:4700:3034:0:0:0:6815:4cb4"
+        },
+        {
+            "name": "bunkr.si",
+            "type": 2,
+            "dnsType": "NS",
+            "ttl": 21600,
+            "rawText": "bunkr.si.\t\t21600\tIN\tNS\tjulissa.ns.cloudflare.com.",
+            "rRsetType": 2,
+            "singleName": "julissa.ns.cloudflare.com."
+        },
+        {
+            "name": "bunkr.si",
+            "type": 2,
+            "dnsType": "NS",
+            "ttl": 21600,
+            "rawText": "bunkr.si.\t\t21600\tIN\tNS\twill.ns.cloudflare.com.",
+            "rRsetType": 2,
+            "singleName": "will.ns.cloudflare.com."
+        },
+        {
+            "name": "bunkr.si",
+            "type": 6,
+            "dnsType": "SOA",
+            "ttl": 1800,
+            "rawText": "bunkr.si.\t\t1800\tIN\tSOA\tjulissa.ns.cloudflare.com. dns.cloudflare.com. 2381080403 10000 2400 604800 1800",
+            "rRsetType": 6,
+            "admin": "dns.cloudflare.com.",
+            "host": "julissa.ns.cloudflare.com.",
+            "expire": 604800,
+            "minimum": 1800,
+            "refresh": 10000,
+            "retry": 2400,
+            "serial": 2381080403
+        }
+    ]
+}

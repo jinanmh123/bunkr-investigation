@@ -1,0 +1,88 @@
+
+{
+    "status": true,
+    "queryTime": "2025-08-01 16:35:25",
+    "domainName": "bunkr.cr",
+    "domainRegistered": true,
+    "dnsTypes": {
+        "A": 1,
+        "MX": 15,
+        "NS": 2,
+        "SOA": 6,
+        "SPF": 99
+    },
+    "dnsRecords": [
+        {
+            "name": "bunkr.cr",
+            "type": 1,
+            "dnsType": "A",
+            "ttl": 23,
+            "rawText": "bunkr.cr.\t\t23\tIN\tA\t91.149.226.80",
+            "rRsetType": 1,
+            "address": "91.149.226.80"
+        },
+        {
+            "name": "bunkr.cr",
+            "type": 15,
+            "dnsType": "MX",
+            "ttl": 14400,
+            "rawText": "bunkr.cr.\t\t14400\tIN\tMX\t0 mail.bunkr.cr.",
+            "rRsetType": 15,
+            "target": "mail.bunkr.cr.",
+            "priority": 0
+        },
+        {
+            "name": "bunkr.cr",
+            "type": 2,
+            "dnsType": "NS",
+            "ttl": 14400,
+            "rawText": "bunkr.cr.\t\t14400\tIN\tNS\tns3.bytens.net.",
+            "rRsetType": 2,
+            "singleName": "ns3.bytens.net."
+        },
+        {
+            "name": "bunkr.cr",
+            "type": 2,
+            "dnsType": "NS",
+            "ttl": 14400,
+            "rawText": "bunkr.cr.\t\t14400\tIN\tNS\tns2.bytens.net.",
+            "rRsetType": 2,
+            "singleName": "ns2.bytens.net."
+        },
+        {
+            "name": "bunkr.cr",
+            "type": 2,
+            "dnsType": "NS",
+            "ttl": 14400,
+            "rawText": "bunkr.cr.\t\t14400\tIN\tNS\tns1.bytens.net.",
+            "rRsetType": 2,
+            "singleName": "ns1.bytens.net."
+        },
+        {
+            "name": "bunkr.cr",
+            "type": 6,
+            "dnsType": "SOA",
+            "ttl": 14400,
+            "rawText": "bunkr.cr.\t\t14400\tIN\tSOA\tns1.bytens.net. root.bunkr.cr. 2024102305 7200 3600 1209600 180",
+            "rRsetType": 6,
+            "admin": "root.bunkr.cr.",
+            "host": "ns1.bytens.net.",
+            "expire": 1209600,
+            "minimum": 180,
+            "refresh": 7200,
+            "retry": 3600,
+            "serial": 2024102305
+        },
+        {
+            "name": "bunkr.cr",
+            "type": 99,
+            "dnsType": "SPF",
+            "ttl": 14400,
+            "rawText": "bunkr.cr.\t\t14400\tIN\tSPF\t\"v\u003dspf1 a mx ip4:91.149.226.80 -all\"",
+            "rRsetType": 99,
+            "strings": [
+                "v\u003dspf1 a mx ip4:91.149.226.80 -all"
+            ]
+        }
+    ]
+}
