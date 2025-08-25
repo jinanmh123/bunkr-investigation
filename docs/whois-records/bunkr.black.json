@@ -1,0 +1,196 @@
+{
+    "status": true,
+    "queryTime": "2025-08-12 11:22:12",
+    "domainName": "bunkr.black",
+    "domainRegistered": true,
+    "dnsTypes": {
+        "A": 1,
+        "AAAA": 28,
+        "MX": 15,
+        "NS": 2,
+        "SOA": 6,
+        "SPF": 99
+    },
+    "dnsRecords": [
+        {
+            "name": "bunkr.black",
+            "type": 1,
+            "dnsType": "A",
+            "ttl": 300,
+            "rawText": "bunkr.black.\t\t300\tIN\tA\t104.21.16.1",
+            "rRsetType": 1,
+            "address": "104.21.16.1"
+        },
+        {
+            "name": "bunkr.black",
+            "type": 1,
+            "dnsType": "A",
+            "ttl": 300,
+            "rawText": "bunkr.black.\t\t300\tIN\tA\t104.21.48.1",
+            "rRsetType": 1,
+            "address": "104.21.48.1"
+        },
+        {
+            "name": "bunkr.black",
+            "type": 1,
+            "dnsType": "A",
+            "ttl": 300,
+            "rawText": "bunkr.black.\t\t300\tIN\tA\t104.21.32.1",
+            "rRsetType": 1,
+            "address": "104.21.32.1"
+        },
+        {
+            "name": "bunkr.black",
+            "type": 1,
+            "dnsType": "A",
+            "ttl": 300,
+            "rawText": "bunkr.black.\t\t300\tIN\tA\t104.21.80.1",
+            "rRsetType": 1,
+            "address": "104.21.80.1"
+        },
+        {
+            "name": "bunkr.black",
+            "type": 1,
+            "dnsType": "A",
+            "ttl": 300,
+            "rawText": "bunkr.black.\t\t300\tIN\tA\t104.21.64.1",
+            "rRsetType": 1,
+            "address": "104.21.64.1"
+        },
+        {
+            "name": "bunkr.black",
+            "type": 1,
+            "dnsType": "A",
+            "ttl": 300,
+            "rawText": "bunkr.black.\t\t300\tIN\tA\t104.21.112.1",
+            "rRsetType": 1,
+            "address": "104.21.112.1"
+        },
+        {
+            "name": "bunkr.black",
+            "type": 1,
+            "dnsType": "A",
+            "ttl": 300,
+            "rawText": "bunkr.black.\t\t300\tIN\tA\t104.21.96.1",
+            "rRsetType": 1,
+            "address": "104.21.96.1"
+        },
+        {
+            "name": "bunkr.black",
+            "type": 28,
+            "dnsType": "AAAA",
+            "ttl": 300,
+            "rawText": "bunkr.black.\t\t300\tIN\tAAAA\t2606:4700:3030:0:0:0:6815:4001",
+            "rRsetType": 28,
+            "address": "2606:4700:3030:0:0:0:6815:4001"
+        },
+        {
+            "name": "bunkr.black",
+            "type": 28,
+            "dnsType": "AAAA",
+            "ttl": 300,
+            "rawText": "bunkr.black.\t\t300\tIN\tAAAA\t2606:4700:3030:0:0:0:6815:2001",
+            "rRsetType": 28,
+            "address": "2606:4700:3030:0:0:0:6815:2001"
+        },
+        {
+            "name": "bunkr.black",
+            "type": 28,
+            "dnsType": "AAAA",
+            "ttl": 300,
+            "rawText": "bunkr.black.\t\t300\tIN\tAAAA\t2606:4700:3030:0:0:0:6815:5001",
+            "rRsetType": 28,
+            "address": "2606:4700:3030:0:0:0:6815:5001"
+        },
+        {
+            "name": "bunkr.black",
+            "type": 28,
+            "dnsType": "AAAA",
+            "ttl": 300,
+            "rawText": "bunkr.black.\t\t300\tIN\tAAAA\t2606:4700:3030:0:0:0:6815:7001",
+            "rRsetType": 28,
+            "address": "2606:4700:3030:0:0:0:6815:7001"
+        },
+        {
+            "name": "bunkr.black",
+            "type": 28,
+            "dnsType": "AAAA",
+            "ttl": 300,
+            "rawText": "bunkr.black.\t\t300\tIN\tAAAA\t2606:4700:3030:0:0:0:6815:3001",
+            "rRsetType": 28,
+            "address": "2606:4700:3030:0:0:0:6815:3001"
+        },
+        {
+            "name": "bunkr.black",
+            "type": 28,
+            "dnsType": "AAAA",
+            "ttl": 300,
+            "rawText": "bunkr.black.\t\t300\tIN\tAAAA\t2606:4700:3030:0:0:0:6815:6001",
+            "rRsetType": 28,
+            "address": "2606:4700:3030:0:0:0:6815:6001"
+        },
+        {
+            "name": "bunkr.black",
+            "type": 28,
+            "dnsType": "AAAA",
+            "ttl": 300,
+            "rawText": "bunkr.black.\t\t300\tIN\tAAAA\t2606:4700:3030:0:0:0:6815:1001",
+            "rRsetType": 28,
+            "address": "2606:4700:3030:0:0:0:6815:1001"
+        },
+        {
+            "name": "bunkr.black",
+            "type": 15,
+            "dnsType": "MX",
+            "ttl": 300,
+            "rawText": "bunkr.black.\t\t300\tIN\tMX\t0 _dc-mx.484a531aaf00.bunkr.black.",
+            "rRsetType": 15,
+            "target": "_dc-mx.484a531aaf00.bunkr.black.",
+            "priority": 0
+        },
+        {
+            "name": "bunkr.black",
+            "type": 2,
+            "dnsType": "NS",
+            "ttl": 21600,
+            "rawText": "bunkr.black.\t\t21600\tIN\tNS\tjulissa.ns.cloudflare.com.",
+            "rRsetType": 2,
+            "singleName": "julissa.ns.cloudflare.com."
+        },
+        {
+            "name": "bunkr.black",
+            "type": 2,
+            "dnsType": "NS",
+            "ttl": 21600,
+            "rawText": "bunkr.black.\t\t21600\tIN\tNS\twill.ns.cloudflare.com.",
+            "rRsetType": 2,
+            "singleName": "will.ns.cloudflare.com."
+        },
+        {
+            "name": "bunkr.black",
+            "type": 6,
+            "dnsType": "SOA",
+            "ttl": 1800,
+            "rawText": "bunkr.black.\t\t1800\tIN\tSOA\tjulissa.ns.cloudflare.com. dns.cloudflare.com. 2379683778 10000 2400 604800 1800",
+            "rRsetType": 6,
+            "admin": "dns.cloudflare.com.",
+            "host": "julissa.ns.cloudflare.com.",
+            "expire": 604800,
+            "minimum": 1800,
+            "refresh": 10000,
+            "retry": 2400,
+            "serial": 2379683778
+        },
+        {
+            "name": "bunkr.black",
+            "type": 99,
+            "dnsType": "SPF",
+            "ttl": 300,
+            "rawText": "bunkr.black.\t\t300\tIN\tSPF\t\"v\u003dspf1 a mx ip4:91.149.226.35 -all\"",
+            "rRsetType": 99,
+            "strings": [
+                "v\u003dspf1 a mx ip4:91.149.226.35 -all"
+            ]
+        }
+    ]
+}
